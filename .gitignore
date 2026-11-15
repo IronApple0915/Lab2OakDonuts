@@ -1,0 +1,7 @@
+target/
+oakdonutsdb/
+derby.log
+.idea/
+*.iml
+README.md
+
